@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>585355015775-r3usscpeh441v1p5ln3pnq2p5tmh9aic.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.585355015775-r3usscpeh441v1p5ln3pnq2p5tmh9aic</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXULOF6pB3Hz2wr1O-kiwG88iyHHfPvfc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>585355015775</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.babydiary</string>
+	<key>PROJECT_ID</key>
+	<string>babydiary-795a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>babydiary-795a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:585355015775:ios:9a595153f48a5b51f28dea</string>
+</dict>
+</plist>
